@@ -2,16 +2,16 @@
 
 ### Here is a list of Data Science and Analyitics projects that I have worked on, ranging from; 
 - data sourcing via web scraping, API and databases. 
-- data Rangling and preprocessing.
+- data rangling and preprocessing.
 - Exploratory data analysis (EDA).
 - Visualization.
 - machine learning & deep learning model building and model deployment.
 
 
 
-### For these Projects, I have utilized the following tools;
+### For these Projects, I have utilized the following tools:
 - Python 
-###### Data sourcing:
+#### Data sourcing:
 - SQL for database queries
 - request package
 - BeautifulSoup
