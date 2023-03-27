@@ -1,6 +1,6 @@
 ## WELCOME TO MY PORTFOLIO PROJECTS.
 
-### Here is a list of my Data Science and Analyitics projects that I have worked on, ranging from; 
+### Here is a list of Data Science and Analyitics projects that I have worked on, ranging from; 
 - data sourcing via web scraping, API and databases. 
 - data Rangling and preprocessing.
 - Exploratory data analysis (EDA).
@@ -10,7 +10,6 @@
 
 
 ### For these Projects, I have utilized the following tools;
-Coding:
 - Python 
 ###### Data sourcing:
 - SQL for database queries
@@ -18,16 +17,16 @@ Coding:
 - BeautifulSoup
 - APIs
 - Selenium
-###### EDA and Data Analytics:
+#### EDA and Data Analytics:
 - NumPy 
 - Pandas 
 - Seaborn 
 - Stats model
-###### Data Visualization:
+#### Data Visualization:
 - matplotlib
 - plotly
 - Power Bi
-###### Machine and deep learning:
+#### Machine and deep learning:
 - Google Colab
 - Sklearn
 - Tensorflow
