@@ -1,13 +1,13 @@
 ## Weather forecast for the next five days
 
-A common way of collecting data is through APIs. Those can be [public APIs](https://github.com/public-apis/public-apis) with authentication or not, free or paid, internal APIs at your company, etc.
-
 For this project I will be using the [OpenWeatherMap API documentation](https://openweathermap.org/api)
+
+APIs is a common way of collecting data. It can be [public APIs](https://github.com/public-apis/public-apis) with authentication or not, free or paid, or internal APIs at your company, etc.
 
 First, Sign up for an API key (which might take 10-20 minutes to get activated)
 Next, go through hthe API documentation to find the specific URL needed.
 
-Second, Making a test call to the API using the browser to make sure we don't start coding too much before realizing that the API is not a good fit for our required purpose.
+Second, Making a test call to the API using a browser to make sure we don't start coding too much before realizing that the API is not a good fit for our required purpose.
 
 If you are on Chrome, you should install the [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) extension for a neater look. In the end, JSON is just text that needs to be **parsed**, that's what the extension will do.
 
