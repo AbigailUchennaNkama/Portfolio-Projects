@@ -1,6 +1,6 @@
 ## WELCOME TO MY PORTFOLIO PROJECTS.
 
-### Here is a list of Data Science and Analyitics projects that I have worked on, ranging from; 
+### Here is a list of Data Science and Analytics projects that I have worked on, ranging from; 
 - data sourcing via web scraping, API and databases. 
 - data rangling and preprocessing.
 - Exploratory data analysis (EDA).
