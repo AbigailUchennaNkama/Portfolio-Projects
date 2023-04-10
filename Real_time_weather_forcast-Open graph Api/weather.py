@@ -4,8 +4,8 @@ import sys
 import urllib.parse
 import requests
 
-BASE_URI = "https://weather.lewagon.com"
-#base_url: "https://weather.lewagon.com/geo/1.0/direct"
+BASE_URI = "https://weather.weatherforcast.com"
+#base_url: "https://weather.weatherforcast.com/geo/1.0/direct"
 
 def search_city(query):
     '''Look for a given city. If multiple options are returned, have the user choose between them.
